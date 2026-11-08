@@ -61,10 +61,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/algoshred/vibe-plugin-security-archive.git"
+    "url": "git+https://github.com/Algoshred/vibe-plugin-security-archive.git"
   },
   "bugs": {
-    "url": "https://github.com/algoshred/vibe-plugin-security-archive/issues"
+    "url": "https://github.com/Algoshred/vibe-plugin-security-archive/issues"
   },
   "homepage": "https://vibecontrols.com",
   "publishConfig": {
